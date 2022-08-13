@@ -52,7 +52,7 @@ class Main {
 		} 
 		
 		finally { 
-			System.out.println("This code will be gurrentied to run"); 
+			System.out.println("This code will be guaranteed to run"); 
 		} 
 		
 		System.out.println("The end"); 
